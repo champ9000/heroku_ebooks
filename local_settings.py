@@ -4,8 +4,8 @@ Local Settings for a heroku_ebooks account. #badcanine
 
 #configuration
 MY_CONSUMER_KEY = '2UtvzW3R5Dfq7U5ieJepYzZEO'
-MY_CONSUMER_SECRET = ' UeDb5nw3lHdyyDh5Cmtm9PjDD1QUJ4sR34AHlnIkErizqYFZ94'
-MY_ACCESS_TOKEN_KEY = ' 3407745641-3NjZw4Eqp7z9e4AgsiMEAELaZqZdAcN4IVfpJld'
+MY_CONSUMER_SECRET = 'UeDb5nw3lHdyyDh5Cmtm9PjDD1QUJ4sR34AHlnIkErizqYFZ94'
+MY_ACCESS_TOKEN_KEY = '3407745641-3NjZw4Eqp7z9e4AgsiMEAELaZqZdAcN4IVfpJld'
 MY_ACCESS_TOKEN_SECRET = '1jqXF5HyZltMmZU84GEZkpdqD3Bm5l05qKulcoXXqU9Nz'
 
 SOURCE_ACCOUNTS = ["radcanine"] #A list of comma-separated, quote-enclosed Twitter handles of account that you'll generate tweets based on. It should look like ["account1", "account2"]. If you want just one account, no comma needed.
