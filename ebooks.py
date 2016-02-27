@@ -59,7 +59,6 @@ if __name__=="__main__":
     order = ORDER
     if DEBUG==False:
         guess = random.choice(range(ODDS))
-        print guess
     else:
         guess = 0
 
